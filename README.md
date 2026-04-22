@@ -1,4 +1,24 @@
-# Bots Business VS Code Extension
+<table style="width: 100%; border-style: none; margin-bottom: 25px;">
+<tr>
+  <td style="width: 150px; text-align: center;">
+    <a href="https://marketplace.visualstudio.com/items?itemName=bottercc.bb-extension">
+      <img width="140px" src="https://cdn.vsassets.io/v/M272_20260413.10/_content/Header/default_icon_128.png" alt="BBE Logo"/>
+    </a>
+  </td>
+  <td>
+    <h1 style="margin: 0;">Bots Business VS Code Extension</h1>
+    <p style="margin: 8px 0 12px 0; font-size: 1.1em; color: #666;">
+      The premium IDE for building and managing <strong>Bots Business</strong> bots
+    </p>
+    <p>
+      <strong>Made with ❤️ by <a href="https://t.me/arijitiyan">@arijitiyan</a></strong>
+    </p>
+    <a href="https://marketplace.visualstudio.com/items?itemName=bottercc.bb-extension">
+      <img src="https://img.shields.io/badge/Install%20from%20Marketplace-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Install from Marketplace"/>
+    </a>
+  </td>
+</tr>
+</table>
 
 Professional VS Code extension for **Bots Business**. Develop, manage, and troubleshoot your bots within a premium, integrated development environment.
 
